@@ -8,7 +8,7 @@ Graphics: RX5600XT
 Wireless network card: BCM94360CD  
 
 # Drive situation
-Graphics：RX570 work well, UHD 630 not work  
+Graphics：RX5600XT work well, UHD 630 not work  
 Sound card：work well  
 Wireless: wifi & Bluetooth work well, AX200 not work  
 Sleep & wake：work well  
