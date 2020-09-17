@@ -14,4 +14,4 @@ Wireless: wifi & Bluetooth work well, AX200 not work
 Sleep & wake：work well  
 Location：work well  
 NVRAM：work well  
-USB：some ports work well and the rest not work yet (intend to repair) 
+USB：work well  
