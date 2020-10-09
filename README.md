@@ -15,3 +15,6 @@ Sleep & wake：work well
 Location：work well  
 NVRAM：work well  
 USB：work well  
+
+# Follow-up upgrade
+This configuration file can support macOS Big Sur well, and only requires a partial upgrade, including opencore version 0.6.1, Lilu.kext version 1.4.7+ and AppleALC.kext version 1.5.2+.  
