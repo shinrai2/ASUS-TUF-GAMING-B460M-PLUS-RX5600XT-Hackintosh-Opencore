@@ -2,7 +2,7 @@
 
 # Configuration 
 Opencore: 0.6.1  
-Version: macOS Big Sur Beta  
+Version: macOS Big Sur Beta (Beta 10 not supported!!)  
 Motherboard: ASUS TUF Gaming B460M PLUS (WIFI)  
 Graphics: RX5600XT  
 Wireless network card: BCM94360CD  
