@@ -2,19 +2,14 @@
 
 # Configuration 
 Opencore: 0.6.2  
-Version: macOS Big Sur Beta 10 (Beta 11.0.1 to be verified, be careful please)  
-Motherboard: ASUS TUF Gaming B460M PLUS (WIFI)  
+Version: macOS Big Sur Beta 11.0.1  
+Motherboard: ASUS TUF Gaming B460M PLUS (WIFI or not)  
 Graphics: RX5600XT  
+CPU: Intel i5 10400  
 Wireless network card: BCM94360CD  
 
 # Situation
-Graphics：RX5600XT work well, UHD 630 not work  
-Sound card：work well  
-Wireless: wifi & Bluetooth work well, AX200 not work  
-Sleep & wake：work well  
-Location：work well  
-NVRAM：work well  
-USB：work well  (including usb2.0 and usb3.0)
+Work well except UHD 630 and AX200  
 
 # Issue tracking
 
@@ -27,4 +22,5 @@ Q: Problem with the display scale of Opencore.
 A: Change the value `UIScale` in NVRAM settings (also need to reset NVRAM and rebuild UEFI record).
 ```
 
-
+# Plan
+1. Looking for a sleep wake solution other than the pmset method.  
