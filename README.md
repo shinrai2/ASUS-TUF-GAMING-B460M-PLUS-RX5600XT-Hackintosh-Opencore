@@ -2,7 +2,7 @@
 
 # Configuration 
 Opencore: 0.6.2  
-Version: macOS Big Sur Beta 11.0.1  
+Version: macOS Big Sur 11  
 Motherboard: ASUS TUF Gaming B460M PLUS (WIFI or not)  
 Graphics: RX5600XT  
 CPU: Intel i5 10400  
@@ -22,5 +22,3 @@ Q: Problem with the display scale of Opencore.
 A: Change the value `UIScale` in NVRAM settings (also need to reset NVRAM and rebuild UEFI record).
 ```
 
-# Plan
-1. Looking for a sleep wake solution other than the pmset method.  
