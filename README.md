@@ -1,5 +1,7 @@
 # ASUS-TUF-GAMING-B460M-PLUS-RX5600XT-Hackintosh-Opencore
 
+![about](/IMG/about.png)
+
 # Configuration 
 Opencore: 0.7.8  
 Version: macOS Monterey  
