@@ -1,9 +1,9 @@
 # ASUS-TUF-GAMING-B460M-PLUS-RX5600XT-Hackintosh-Opencore
 
 # Configuration 
-Opencore: 0.6.2  
-Version: macOS Big Sur 11  
-Motherboard: ASUS TUF Gaming B460M PLUS (WIFI or not)  
+Opencore: 0.7.8  
+Version: macOS Monterey  
+Motherboard: ASUS TUF Gaming B460M PLUS WIFI  
 Graphics: RX5600XT  
 CPU: Intel i5 10400  
 Wireless network card: BCM94360CD  
