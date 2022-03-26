@@ -3,15 +3,17 @@
 ![about](/IMG/about.png)
 
 # Configuration 
-Opencore: 0.7.8  
-Version: macOS Monterey  
-Motherboard: ASUS TUF Gaming B460M PLUS WIFI  
-Graphics: RX5600XT  
-CPU: Intel i5 10400  
-Wireless network card: BCM94360CD  
+- Opencore: 0.7.8  
+- Version: macOS Monterey  
+- Motherboard: ASUS TUF Gaming B460M PLUS WIFI  
+- Graphics: RX5600XT  
+- CPU: Intel i5 10400  
+- Wireless network card: BCM94360CD  
 
 # Situation
-Work well except UHD 630 and AX200  
+- Work well except AX200  
+- UHD 630 work well now :confetti_ball: :confetti_ball:  
+> (you need to upgrade BIOS firmware and set 'IGPU Multi-Monitor' enabled, set 'DVMT pre-Allocated' at least 128M.)  
 
 # Issue tracking
 
