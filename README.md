@@ -44,4 +44,8 @@ A: Run `sudo pmset -a standby 0` in terminal.
 Q: Problem with the display scale of Opencore.
 A: Change the value `UIScale` in NVRAM settings (also need to reset NVRAM and rebuild UEFI record).
 ```
+```
+Q: How is it compatible with ReSize BAR?
+A: Turn on "ReSize BAR" in BIOS first. Then Set `ResizeAppleGpuBars` = 0 in Opencore.
+```
 
