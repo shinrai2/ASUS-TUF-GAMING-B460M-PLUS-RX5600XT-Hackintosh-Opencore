@@ -3,8 +3,8 @@
 ![about](/IMG/about.png)
 
 # Configuration
-- Opencore: 0.7.8  
-- Version: macOS Monterey  
+- Opencore: 0.8.9  
+- Version: macOS Ventura 13.2  
 - Motherboard: ASUS TUF Gaming B460M PLUS WIFI  
 - Graphics: RX5600XT  
 - CPU: Intel i5 10400  
